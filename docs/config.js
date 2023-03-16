@@ -1,2 +1,2 @@
-"use strict";(self.webpackChunkquetzal_network_editor=self.webpackChunkquetzal_network_editor||[]).push([[182],{9182:(e,t,a)=>{a.d(t,{C:()=>n});const n="pk.eyJ1Ijoic2JvaXZpbiIsImEiOiJja3BlMm41cm4xa2QyMnZwZTBqdGx4bHI0In0.11oH2-B2g9J6LarDnoqQfQ"}}]);
+"use strict";(self.webpackChunkquetzal_network_editor=self.webpackChunkquetzal_network_editor||[]).push([[182],{79182:(e,t,a)=>{a.d(t,{C:()=>n});const n="pk.eyJ1Ijoic2JvaXZpbiIsImEiOiJja3BlMm41cm4xa2QyMnZwZTBqdGx4bHI0In0.11oH2-B2g9J6LarDnoqQfQ"}}]);
 //# sourceMappingURL=config.js.map
