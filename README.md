@@ -2,10 +2,14 @@
 
 in quetzal-network-editor.
 
-change   '/quetzal-network-editor/' to '/quetzal-network-editor-dev/' in
+```sh
 
-src/router/index.js and build/prod_webpack.config.js
+# compile i18n languages
+yarn run i18n-compile
 
-build quetzal-network-editor (yarn run build)
+# build for for dev deployment (https://github.com/systragroup/quetzal-network-editor-dev)
+yarn run build-test
+
+```
 
 copy the content of the dist folder to the docs folder (here) except 404.html
