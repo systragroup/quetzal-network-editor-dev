@@ -8,8 +8,8 @@ in quetzal-network-editor.
 yarn run i18n-compile
 
 # build for for dev deployment (https://github.com/systragroup/quetzal-network-editor-dev)
-yarn run build-test
+yarn run build
 
 ```
 
-copy the content of the dist folder to the docs folder (here) except 404.html
+copy the content of the dist folder to the docs folder (here). copy index.html and rename it 404.html.
