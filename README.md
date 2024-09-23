@@ -3,6 +3,10 @@
 in quetzal-network-editor.
 
 ```sh
+yarn run deploy-staging
+```
+or do it manually
+```sh
 
 # compile i18n languages
 yarn run i18n-compile
