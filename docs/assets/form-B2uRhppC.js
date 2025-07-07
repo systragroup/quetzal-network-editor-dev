@@ -1,0 +1,1 @@
+const t=e=>e,o={required:e=>e!=null&&e!==""||t("Required"),largerThanZero:e=>e>0||t("Should be larger than 0"),nonNegative:e=>e>=0||t("Should be larger or equal to 0"),longerThanZero:e=>e.length>0||t("Should not be empty")};function r(e){return e===void 0?[]:e.map(n=>typeof n=="string"?o[n]:n)}export{r as g};
