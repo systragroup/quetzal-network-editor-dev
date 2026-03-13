@@ -1,0 +1,1 @@
+import{an as s,a as t,ao as a,g as n,j as e,e as c}from"./index-OQi0kmPI.js";import{M as i}from"./MarkDownViewer-UDJy2A1_.js";import"./Markdown-BzCe4K8G.js";const d=s({__name:"ResultPicture",setup(l){const r=t(),o=a();return(m,p)=>(c(),n(i,{model:e(o).model,scenario:e(o).scenario+"/","file-paths":e(r).otherFiles},null,8,["model","scenario","file-paths"]))}});export{d as default};
